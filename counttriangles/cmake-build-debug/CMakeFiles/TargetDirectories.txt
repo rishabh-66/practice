@@ -1,0 +1,3 @@
+G:/pep/practice/counttriangles/cmake-build-debug/CMakeFiles/counttriangles.dir
+G:/pep/practice/counttriangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/practice/counttriangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

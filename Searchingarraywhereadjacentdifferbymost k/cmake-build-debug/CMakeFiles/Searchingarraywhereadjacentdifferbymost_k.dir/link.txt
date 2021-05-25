@@ -1,0 +1,3 @@
+"G:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Searchingarraywhereadjacentdifferbymost_k.dir/objects.a
+G:\MingW\mingw64\bin\ar.exe cr CMakeFiles\Searchingarraywhereadjacentdifferbymost_k.dir/objects.a @CMakeFiles\Searchingarraywhereadjacentdifferbymost_k.dir\objects1.rsp
+G:\MingW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Searchingarraywhereadjacentdifferbymost_k.dir/objects.a -Wl,--no-whole-archive  -o Searchingarraywhereadjacentdifferbymost_k.exe -Wl,--out-implib,libSearchingarraywhereadjacentdifferbymost_k.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Searchingarraywhereadjacentdifferbymost_k.dir\linklibs.rsp

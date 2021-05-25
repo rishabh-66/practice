@@ -1,0 +1,3 @@
+G:/pep/practice/twostacksinarray/cmake-build-debug/CMakeFiles/twostacksinarray.dir
+G:/pep/practice/twostacksinarray/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/practice/twostacksinarray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

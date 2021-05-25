@@ -1,0 +1,3 @@
+G:/pep/practice/anagram/cmake-build-debug/CMakeFiles/anagram.dir
+G:/pep/practice/anagram/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/practice/anagram/cmake-build-debug/CMakeFiles/rebuild_cache.dir

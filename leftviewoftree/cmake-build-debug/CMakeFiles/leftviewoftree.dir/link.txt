@@ -1,0 +1,3 @@
+"G:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\leftviewoftree.dir/objects.a
+G:\MingW\mingw64\bin\ar.exe cr CMakeFiles\leftviewoftree.dir/objects.a @CMakeFiles\leftviewoftree.dir\objects1.rsp
+G:\MingW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\leftviewoftree.dir/objects.a -Wl,--no-whole-archive  -o leftviewoftree.exe -Wl,--out-implib,libleftviewoftree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\leftviewoftree.dir\linklibs.rsp

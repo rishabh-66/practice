@@ -1,0 +1,3 @@
+"G:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\tworepeatedele.dir/objects.a
+G:\MingW\mingw64\bin\ar.exe cr CMakeFiles\tworepeatedele.dir/objects.a @CMakeFiles\tworepeatedele.dir\objects1.rsp
+G:\MingW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\tworepeatedele.dir/objects.a -Wl,--no-whole-archive  -o tworepeatedele.exe -Wl,--out-implib,libtworepeatedele.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tworepeatedele.dir\linklibs.rsp

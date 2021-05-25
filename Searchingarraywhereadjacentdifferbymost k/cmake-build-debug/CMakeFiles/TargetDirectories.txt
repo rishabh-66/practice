@@ -1,0 +1,3 @@
+G:/pep/practice/Searchingarraywhereadjacentdifferbymost k/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/pep/practice/Searchingarraywhereadjacentdifferbymost k/cmake-build-debug/CMakeFiles/Searchingarraywhereadjacentdifferbymost_k.dir
+G:/pep/practice/Searchingarraywhereadjacentdifferbymost k/cmake-build-debug/CMakeFiles/edit_cache.dir

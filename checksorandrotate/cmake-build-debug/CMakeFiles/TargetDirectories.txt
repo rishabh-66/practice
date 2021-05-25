@@ -1,0 +1,3 @@
+G:/pep/checksorandrotate/cmake-build-debug/CMakeFiles/checksorandrotate.dir
+G:/pep/checksorandrotate/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/checksorandrotate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

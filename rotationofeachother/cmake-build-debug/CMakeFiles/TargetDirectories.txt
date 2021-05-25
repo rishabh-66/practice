@@ -1,0 +1,3 @@
+G:/pep/practice/rotationofeachother/cmake-build-debug/CMakeFiles/rotationofeachother.dir
+G:/pep/practice/rotationofeachother/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/practice/rotationofeachother/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"G:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\binaryarraysort.dir/objects.a
+G:\MingW\mingw64\bin\ar.exe cr CMakeFiles\binaryarraysort.dir/objects.a @CMakeFiles\binaryarraysort.dir\objects1.rsp
+G:\MingW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\binaryarraysort.dir/objects.a -Wl,--no-whole-archive  -o binaryarraysort.exe -Wl,--out-implib,libbinaryarraysort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\binaryarraysort.dir\linklibs.rsp

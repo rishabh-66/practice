@@ -1,0 +1,3 @@
+G:/pep/practice/tripletsum0/cmake-build-debug/CMakeFiles/tripletsum0.dir
+G:/pep/practice/tripletsum0/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/practice/tripletsum0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+G:/pep/Findfirstse bit/cmake-build-debug/CMakeFiles/Findfirstse_bit.dir
+G:/pep/Findfirstse bit/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/Findfirstse bit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

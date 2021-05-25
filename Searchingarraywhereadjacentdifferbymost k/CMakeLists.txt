@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(Searchingarraywhereadjacentdifferbymost_k)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Searchingarraywhereadjacentdifferbymost_k main.cpp)

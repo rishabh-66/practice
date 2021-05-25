@@ -1,0 +1,3 @@
+"G:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\rotationofeachother.dir/objects.a
+G:\MingW\mingw64\bin\ar.exe cr CMakeFiles\rotationofeachother.dir/objects.a @CMakeFiles\rotationofeachother.dir\objects1.rsp
+G:\MingW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\rotationofeachother.dir/objects.a -Wl,--no-whole-archive  -o rotationofeachother.exe -Wl,--out-implib,librotationofeachother.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rotationofeachother.dir\linklibs.rsp

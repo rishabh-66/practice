@@ -1,0 +1,3 @@
+G:/pep/practice/treetraversal/cmake-build-debug/CMakeFiles/treetraversal.dir
+G:/pep/practice/treetraversal/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/pep/practice/treetraversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

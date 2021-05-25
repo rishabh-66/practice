@@ -1,0 +1,3 @@
+"G:\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\RearrangeanarraywithO_1_extra_space.dir/objects.a
+G:\MingW\mingw64\bin\ar.exe cr CMakeFiles\RearrangeanarraywithO_1_extra_space.dir/objects.a @CMakeFiles\RearrangeanarraywithO_1_extra_space.dir\objects1.rsp
+G:\MingW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RearrangeanarraywithO_1_extra_space.dir/objects.a -Wl,--no-whole-archive  -o RearrangeanarraywithO_1_extra_space.exe -Wl,--out-implib,libRearrangeanarraywithO_1_extra_space.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RearrangeanarraywithO_1_extra_space.dir\linklibs.rsp
